@@ -16,6 +16,10 @@ git clone https://github.com/RiverSide71/comfyui-library-finder.git
 ```
 
 2. Restart ComfyUI
-  
+
+## Preview
+
+![Library Finder Node](library_finder.png)  
+
 **Known limitations**:
   - None yet, but please reach out and let me know.
