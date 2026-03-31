@@ -21,5 +21,7 @@ git clone https://github.com/RiverSide71/comfyui-library-finder.git
 
 ![Library Finder Node](library_finder.png)  
 
+![Library Finder Node](library_finder1.png) 
+
 **Known limitations**:
-  - None yet, but please reach out and let me know.
+  - Please reach out and let me know.
