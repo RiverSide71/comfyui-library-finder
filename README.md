@@ -22,4 +22,4 @@ git clone https://github.com/RiverSide71/comfyui-library-finder.git
 ![Library Finder Node](library_finder1.png) 
 
 **Known Limitations**:
-  - The node depends on the requirements.txt file for specific library versions installed. It is advisable to add a comment to requiremts.txt if specific library version dependecies are discovered for the custom node.
+  - The node depends on the requirements.txt file for specific library versions installed. It is advisable to add a comment to requiremts.txt if specific library version dependecies are discovered for a custom node.
