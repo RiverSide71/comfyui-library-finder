@@ -1,0 +1,17 @@
+[project]
+name = "comfyui-library-finder"
+description = "A custom node which helps find which custom nodes are importing a particular library"
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/RiverSide71/comfyui-library-finder"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "river-side"
+DisplayName = "riversidenodes"
+Icon = ""
+includes = [] 
+# "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
+
