@@ -2,7 +2,7 @@ import os
 import re
 from importlib.metadata import version as pkg_version, PackageNotFoundError
 
-NODE_CATEGORY = "riversidenodes"
+NODE_CATEGORY = "riverside"
 
 # ---------------------------------------------------------------------------
 # Utility helpers
